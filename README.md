@@ -10,7 +10,7 @@ Upload the files to a S3 bucket.
 Se aplica el Crawler a los folders para que se pueda leer la data dentor de los csv's
 We use a Crawler to read the csv's data with Athena.
 
-![Alt text](images/s3_eac_folder.JPG)
+![Alt text](images/s3_each_folder.JPG)
 
 Terminado el crawling usamos Amazon Athena para verificar que los archivos existan. Luego procedemos a crear un código en Python para hace una transformación de data.
 Query the data using Athena to check if the files have data. Then we proceed to create a Python code to Transform the data. (the Amazon_Redshift_Ghby.ipnyb file).
