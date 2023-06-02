@@ -39,6 +39,8 @@ I sent the data from Redshift to Powerbi using DirectQuery to make a dashboard w
 
 Las tablas cargadas a través de Glue fueron las de ventas de PS4, Xbox y Pc.
 
+The tables uploaded through Glue were Ps4, Xbox and Pc (which in fact is mobile).
+
 Procedemos a crear un Dashboard.
 
 Dashboards:
